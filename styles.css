@@ -1,0 +1,17 @@
+.cuerpo{
+    background-color: #ca82ca;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    text-decoration: none;
+    
+    cursor: pointer;
+}
+
+.perfil{
+    padding-top: 20px;
+}
+
