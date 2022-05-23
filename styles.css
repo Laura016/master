@@ -5,13 +5,23 @@
 .menu{
     display: flex;
     justify-content: space-between;
-    padding: 10px 10px;
+    cursor: pointer;
+    transition: ease-in .4s;
     text-decoration: none;
     
-    cursor: pointer;
 }
 
+.info content{
+    margin: 0 auto;
+}
 .perfil{
     padding-top: 20px;
+    
+    
+}
+
+.cv{
+    background-color: rgba(240, 248, 255, 0.61);
+    cursor: pointer;
 }
 
