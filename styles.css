@@ -1,5 +1,7 @@
-.cuerpo{
-    background-color: #ca82ca;
+body{
+    background-color: rgb(221, 169, 221);
+  background-image: url("arbolvida.jpg");
+  
 }
 
 .menu{
@@ -16,8 +18,12 @@
 }
 .perfil{
     padding-top: 20px;
-    
-    
+    text-align: center;
+    outline: solid rebeccapurple;
+    }
+
+.descripcion{
+    text-align: center;
 }
 
 .cv{
