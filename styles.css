@@ -1,29 +1,26 @@
 body{
     background-color: rgb(221, 169, 221);
-  background-image: url("arbolvida.jpg");
-  
+    text-align: center;
+    padding-top: 50px;
 }
 
-.menu{
-    display: flex;
-    justify-content: space-between;
-    cursor: pointer;
-    transition: ease-in .4s;
-    text-decoration: none;
+.bombilla{
+    outline: solid violet;
     
 }
 
-.info content{
-    margin: 0 auto;
-}
 .perfil{
-    padding-top: 20px;
+    font-size: 200%;
     text-align: center;
     outline: solid rebeccapurple;
     }
 
 .descripcion{
-    text-align: center;
+    width: 80%;
+    margin: auto;
+    outline: solid blue;
+    display: grid;
+    font-size: 140%;
 }
 
 .cv{
