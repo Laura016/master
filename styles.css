@@ -9,6 +9,19 @@ body{
     
 }
 
+.flecha{
+    float: right;
+    outline: solid red;
+    
+    
+}
+
+.icon{
+    padding: 10px;
+    width: 48px;
+    cursor: pointer;
+}
+
 .perfil{
     font-size: 200%;
     text-align: center;
