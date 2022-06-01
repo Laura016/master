@@ -13,17 +13,14 @@ body{
     float: right;
     outline: solid red;
     margin-top: 40px; 
+    
 }
 
-.button{
-    width: 40px;
-    height: 40px;
-    display: grid;
-}
 
 .icon{
     
-    width: 48px;
+    width: 40px;
+    height: 40px;
     cursor: pointer;
 }
 
