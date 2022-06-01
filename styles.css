@@ -16,7 +16,6 @@ body{
     
 }
 
-
 .icon{
     
     width: 40px;
@@ -47,4 +46,6 @@ body{
     background-color: hsla(281, 80%, 31%, 0.61);
     cursor: pointer;
 }
+
+
 
