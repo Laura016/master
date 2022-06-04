@@ -33,11 +33,27 @@
 .herramientas{
     outline: solid yellow;
     display: flex;
-    margin-top: 200px;
+    
     justify-content: space-between;
     margin-left: 80px;
     margin-right: 80px;
 
+}
+
+.iconos{
+    margin: auto;
+}
+
+.html5 {
+    width: 145px;
+}
+
+.csss{
+    width: 145px;
+}
+
+.java{
+    width: 208px;
 }
 
 
