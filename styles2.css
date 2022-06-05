@@ -41,11 +41,16 @@
 }
 
 .iconos{
-    margin: auto;
+    width: 80px;
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    outline: solid black;
 }
 
 .html5 {
     width: 145px;
+    padding-right: 250px;
 }
 
 .csss{
