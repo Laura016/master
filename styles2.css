@@ -3,22 +3,12 @@
     margin-top: 30px;
 }
 
-.flecha2{
-    margin-top: 100px;
-    width: 40px;
-    height: 40px;
-}
-
 .icon2{
     width: 40px;
     height: 40px;
     rotate: 180deg;
     cursor: pointer;
-}
-
-.flecha3{
-    float: right;
-    margin-top: 100px;
+    margin-top: 200px;
     width: 40px;
     height: 40px;
     outline: solid red;
@@ -28,29 +18,26 @@
     width: 40px;
     height: 40px;
     cursor: pointer;
+    float: right;
+    margin-top: 200px;
+    width: 40px;
+    height: 40px;
+    outline: solid red;
 }
 
 .herramientas{
     outline: solid yellow;
     display: flex;
-    
+
     justify-content: space-between;
     margin-left: 80px;
     margin-right: 80px;
 
 }
 
-.iconos{
-    width: 80px;
-    display: flex;
-    margin-left: 80px;
-    margin-right: 80px;
-    outline: solid black;
-}
-
 .html5 {
     width: 145px;
-    padding-right: 250px;
+    
 }
 
 .csss{
