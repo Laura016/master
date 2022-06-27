@@ -1,4 +1,30 @@
+.first{
+    display: flex;
+    padding-top: 20px;
+}
 
+.perfil{
+    padding: 40px 10px;
+}
+.imagen{
+    width: 150px;
+    
+}
+
+.descripcion{
+    text-align: center;
+}
+.img1{
+    width: 100px;
+}
+
+.img2{
+    width: 100px;
+}
+
+.img3{
+    width: 140px;
+}
 
 
 
