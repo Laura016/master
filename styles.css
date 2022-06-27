@@ -6,25 +6,46 @@
 .perfil{
     padding: 40px 10px;
 }
+
 .imagen{
-    width: 150px;
-    
+    width: 150px;    
 }
 
 .descripcion{
+    margin: auto;
     text-align: center;
+    width: 60%;
+    outline: 1px solid red;
+}
+
+.descrip{
+    font-size: large;
+}
+
+.imagenes{
+    outline: 1px solid blue;
+    text-align: center;
+    
 }
 .img1{
     width: 100px;
+    padding-right: 40px;
+    cursor: pointer;
 }
 
 .img2{
     width: 100px;
+    padding-right: 18px;
+    cursor: pointer;
 }
 
 .img3{
     width: 140px;
+    cursor: pointer;
 }
+
+
+
 
 
 
